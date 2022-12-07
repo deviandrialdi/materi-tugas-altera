@@ -1,0 +1,192 @@
+Algortithma day 1
+
+Algoritma adalah sekumpulan cara untuk menangani sebuah masalah dengan tersuktur.
+
+
+contoh algoritma
+- cek bilangan prima => cek bilangan prima
+- sorting / sortir => ex uang
+- searching => pencarian
+
+
+contoh:
+angka = 123
+
+Input ==> bilangan ganjil atau genap
+Proses ==> proses menentukan atau cara 
+Output ==> ganjil atau genap
+
+
+programming adalah sebuah proses untuk membuat program di komputer. Program yang dibuat bisa berupa software, website, aplikasi android, dsb.
+
+
+
+Karakteristik Algoritma
+
+- memiliki Batas (awal dan akhir)
+- Intruksi terdifinisi
+- Efektif dan Efisien.
+
+
+Sebuah program harus punya batas (awal dan akhir) agar tidak infinite loop, serta mempunyai intruksi yang terdefinisi dengan baik. 
+
+
+Algoritma Dasar.
+- Sequential => sebuah algoritma dasar dari A ke B tanpa adanya kondisi.
+- Brancing => sebuah algoritma yang mempunyai percabangan.
+- Looping => melakukan proses secara berulang. ext: Searching
+
+
+https://git-scm.com/downloads
+https://code.visualstudio.com/download
+https://go.dev/doc/install
+https://nodejs.org/en/download/
+
+iterasi atau looping.
+
+=========================
+Tugas bilangan keren
+
+bilangan prima adalah bilangan yang hanya mempunyai dua faktor, yaitu bilangan 1 dan bilangan itu sendiri.
+
+peryaratan tambahan adalah dapat dibagi dengan 2 bilangan bulat positif selain bilangan 1 dan bilangan dirinya sendiri.
+
+kalo 51 (bukan  bilang prima)
+
+1, 3, 17 51 
+
+
+Output ya =>
+- habis dibagi oleh bilangan 1
+- dua bilangan lain
+- bilangan itu sendiri
+- kurang dari 4
+maka outputnya iya
+
+Outputnya tidak =>
+sedangkan lebih dari 4 perulangan (bilangan yang habis dibagi oleh bilangan 1, dua bilangan lain dan bilangan itu sendiri) maka outputnya tidak contohnya 52 (1, 2, 3, 26, 52) total yang membagi bilangannya ada 5.
+
+
+Z adalah variable pembantu berapa banyak bilangan yang bisa dihabis dibagi inputannya.
+
+
+
+
+
+
+sub promblem nya adalah
+1. mencari tau berapa banyak faktor bilangannya.
+
+2. Jika sudah tau berapa banyak faktor bilangnya itu berapa, maka langakh berikutnya
+
+cek, jika faktor bilangan <= 4 maka cetak YA, jika lebih dari 4 maka cetak Tidak.
+
+
+
+Z = Z + 1 adalah akumulasi berapa banyak faktor bilangan yang didapat.
+
+berapa banyak faktor bilangan.
+
+
+
+
+N inputannya
+i nilainya yg akan selalu bertambah satu, apakah bisa membagi habis atau tidak.
+
+
+
+
+
+============================
+Output ya =>
+- habis dibagi oleh bilangan 1
+- dua bilangan lain
+- bilangan itu sendiri
+- kurang dari 4
+maka outputnya iya
+
+Outputnya tidak =>
+sedangkan lebih dari 4 perulangan (bilangan yang habis dibagi oleh bilangan 1, dua bilangan lain dan bilangan itu sendiri) maka outputnya tidak contohnya 52 (1, 2, 3, 26, 52) total yang membagi bilangannya ada 5.
+
+Penjelasan bilangan Keren.
+mulai
+
+Meminta Inputan berupa angka, ketika dia menerima inputan berupa angka maka akan masuk proses selanjutnya yaitu looping. ( i = 1 to Numb, i++).
+
+Lalu cek kondisi Numb yang diinput (input) bisa dibagi % dengan i ==  dan sisa baginya 0 dia akan masuk ke 
+
+Varible pembantu yaitu j = 1, j++, knpa J = 1? karna kondisi J = 1, J++ akan dijalankan ketika Numb % i === 0 sekali saja bernilai true. Jika di false maka langsung ke bawah.
+
+Kemudian jika nilainya false maka langsung ke proses berikutnya perulangan berikutnya ( i = 1 to Numb, i++). Kemudian setelah I nilai output atau lebih dari nilai output, lalu masuk ke proses berikutnya ( j<= 4) yaitu dia di akan mengecek apakah si j = 1, j++. 
+
+Jika kurang dari 4 maka cetak iya dan jika lebih dari 4 maka cetak tidak.
+
+
+
+==================== 
+Output ya =>
+- habis dibagi oleh bilangan 1
+- dua bilangan lain
+- bilangan itu sendiri
+- kurang dari 4
+maka outputnya iya
+
+Outputnya tidak =>
+sedangkan lebih dari 4 perulangan (bilangan yang habis dibagi oleh bilangan 1, dua bilangan lain dan bilangan itu sendiri) maka outputnya tidak contohnya 52 (1, 2, 3, 26, 52) total yang membagi bilangannya ada 5.
+
+Tombol Lampu
+
+- Terdapat N tombol yang di nomori dari 1 hingga N
+- sebuah lampu dalam keadaan mati.
+- Apabila tombol ke-i ditekan, keadaan lampu akan berubah
+- apabila N habis dibagi oleh i (dari mati menjadi menyala, atau sebaliknya).
+
+
+
+Tombol dan Lampu
+
+proses
+
+Meminta Inputan berupa angka, ketika dia menerima inputan berupa angka maka akan masuk proses selanjutnya yaitu looping. ( i = 1 to Numb, i++).
+
+Lalu cek kondisi Numb yang diinput (input) bisa dibagi % dengan i ==  dan sisa baginya 0 dia akan masuk ke 
+
+Varible pembantu yaitu j = 1, j++, knpa J = 1? karna kondisi J = 1, J++ akan dijalankan ketika Numb % i === 0 sekali saja bernilai true. Jika di false maka langsung ke bawah.
+
+Kemudian jika nilainya false maka langsung ke proses berikutnya perulangan berikutnya ( i = 1 to Numb, i++). Kemudian setelah I nilai output atau lebih dari nilai output, lalu masuk ke proses berikutnya ( j % = 1), 
+
+untuk mencari tau apakah nilai j = 1, j++ yang disimpan di sini, bernilai ganjil apa genap? Kenapa harus dicari tau ganjil genapnya? Karena dicontoh soalnya awalnya kan mati lampunya. Jika di klik 1x maka menyala. 1 itu kan bilangan ganjil. Kalo di klik 2x di akan mati lagi lampunya, kalo di klik 3 kali maka akan menyala.
+
+jadi kalo di klik dengan bilangan ganjil maka akan menyala, tetapi di klik dengan bilangan genap outputnya akan mati.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

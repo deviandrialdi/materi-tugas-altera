@@ -1,0 +1,116 @@
+day 1 JS advance
+
+Testing
+=> untuk menguji hasil kodingan yang dibuat. kerjnya QE/QCO.
+
+
+tujuannya
+
+- mencegahnya degrediason artinya mencegah bug
+- meningkatkan tingkat kepercayaan diri kita dalam refactor(memperbaiki performance). konsepnya kayak ngerjain tugas dengan cara yang dipahami. dari situ kita bisa merubah fungsi tanpa merubah flow.
+- meningkatkan code dari desain kita.
+- bisa membuat sebuah dokumentasi.
+- scalling detail artinya memperbesar yang kita miliki.
+
+tidak jauh kualitas dari sebuah kode.
+
+
+
+Jenis atau level dari testing itu sendiri.
+1. Unit testing
+=> mentes bagian terkecil dari sebuah aplikasi atau ngetes function. ada tiga bagian : 
+ - UI => menjalankan aplikasi nya secara langsung atau test secara langsung pada aplikasi. ada sangkut pangkutnya dengan manusia. contohnya login.
+ - Integration => test dimana kita menggunakan modul dengan API. 
+ - Unit
+
+
+
+Framework.
+=> yang digunakan harus sesuai dengan bahasa pemograman yg digunakan. ext Jest.
+
+
+
+Auto close tag
+auto complete tag
+auto rename tag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

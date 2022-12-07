@@ -1,0 +1,43 @@
+forIn/forOf/forEach/mapLoop => tidak perlu inisialisasi (method), 
+
+mapLoop => looping yang digunakan untuk proses render. (render itu kayak menampilakn di webiste)
+
+=> jadi setiap item dalam array
+
+anonimus function // tidak ada nama function.
+
+recursive melakukab suatu hal secara berulang kali atau repetitive.
+
+beda recursive dengan iterative adalah
+
+recursive sangat bergantung pada function dan dia memanggil dirinya sendiri secara berulang lagi.
+
+kalo forloop secara susunan 
+nya:
+- init(acuan untuk melakukan looping), condotion(acuan tadi dibandingkan dengan referensi(paramter), post
+
+
+
+
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 71, 73, 79, 83, 89, dan 97.
+
+Artikel ini telah tayang di Kompas.com dengan judul "Bilangan Prima: Pengertian, Contoh, dan Soalnya", Klik untuk baca: https://www.kompas.com/skola/read/2021/10/21/090000269/bilangan-prima--pengertian-contoh-dan-soalnya?page=all.
+Penulis : Silmi Nurul Utami
+Editor : Serafica Gischa
+
+Download aplikasi Kompas.com untuk akses berita lebih mudah dan cepat:
+Android: https://bit.ly/3g85pkA
+iOS: https://apple.co/3hXWJ0L
+
+
+
+
+
+
+
+
+
+
+
+
+

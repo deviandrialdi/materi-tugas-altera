@@ -1,0 +1,120 @@
+Algortithma day 2
+
+GIT adalah salah satu version control yang digunakan para developer untuk mengembangkan software secara bersama-sama.
+
+
+
+gitlab // bitbucket // aws code commit // google cloud source // github adalah git hosting service atau server
+
+git dan github perbedaannya adalah 
+
+- git buat command line, GitHub buat interface grafisnya
+-Git merupakan sistem, GitHub merupakan platform yang terhubung dengan sistem tersebut
+
+analoginya adalah porn dan pornhub itu atau dota sama steam.
+
+
+
+
+
+belajar SSH => untuk remote github
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+
+
+===========================
+Sesi 2
+
+Javascript bahasa pemograman yang dinamis. Dikatakan dinamis karna type datanya.
+
+Struktur webiste ada 3:
+- HTML // kerangka => konten dalam sebuah halaman
+- CSS // Styling => konten dalam sebuah halaman diformat
+- Javascript // interaksi
+=> menyediakan interaksi dalam sebuah website.
+
+3 hal ini harus ada dalam sebuah website.
+
+
+type data itu bersifat universal
+
+
+Javascript ditemukan pada tahun 93 di Nestcape. Javascript itu support semua paltform browser.
+
+Jasacript tidak hanya digunakan sebagai website. Bisa juga pada:
+- mobile (React Native)
+- backend, 
+- Web FrontEnd (reack JS, React Native dll.
+- Desktop (Elektoron))
+
+4
+
+
+
+
+
+dynamically typed adalah 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+Algortithma day 3
+
+Type data dan operator
+
+Type data
+- String
+- Number
+- BigIn => untuk beberapa angka yg nilainya relatif besar
+- Undifiend => nilainya tidak didefinisikan
+- Boolean = true atau false. Digunakan saat pengkondisian.
+- symbol => untuk pengenal yang unik
+- Null => ada nilai tapi nol.
+
+https://shop.cerkostore.com
+https://github.com/ALTA-FE11-deviandrialdi/Basic-Programming-Part2.git
+
+let splitString = str.split("")
+let reverseArray = splitString.reverse()
+let joinArray = reverseArray.join("")
+return joinArray
